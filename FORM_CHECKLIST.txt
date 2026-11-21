@@ -1,0 +1,21 @@
+SWEETBITE PROJECT CHECKLIST
+===========================
+[ ] Extract ZIP and open .sln (not a loose .cs file)
+[ ] Build > Rebuild Solution in Visual Studio
+[ ] Open LoginForm.cs > View Designer
+[ ] Open DashboardForm.cs > View Designer
+[ ] Open ProductForm.cs > View Designer
+[ ] Open SalesForm.cs > View Designer
+[ ] Open CustomerForm.cs > View Designer
+[ ] Open OrderForm.cs > View Designer
+[ ] Open OrderHistoryForm.cs > View Designer
+[ ] Open InventoryForm.cs > View Designer
+[ ] Open ReceiptForm.cs > View Designer
+[ ] Open ReportsForm.cs > View Designer
+[ ] Open PaymentForm.cs > View Designer
+[ ] Open AccountSetupForm.cs > View Designer
+[ ] Press F5 and choose PREVIEW DASHBOARD to inspect all module screens
+[ ] Check Product/Sales forms with existing sweetbite_db tables
+[ ] Back up database before OPTIONAL SQL upgrade, if needed
+[ ] Run optional SQL and create first account when ready
+[ ] File > Save All; close Visual Studio; reopen .sln; verify all forms remain

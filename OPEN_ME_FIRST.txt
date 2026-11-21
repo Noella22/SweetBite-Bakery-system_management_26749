@@ -1,0 +1,22 @@
+SWEETBITE - SHORT-PATH EDITABLE VISUAL STUDIO PROJECT
+
+This ZIP contains all 12 WinForms in the view folder, project image resources,
+and the exact library DLLs referenced by the .csproj. The long NuGet package
+caches, documentation, analyzers and unnecessary files were removed.
+
+1. Close Visual Studio.
+2. Delete any previous INCOMPLETE extracted folder (do not delete your own changes).
+3. Create C:\SB on your PC.
+4. Extract THIS ZIP directly to C:\SB.
+5. Open C:\SB\SWEETBITE_BAKERY_MANAGEMENT_SYSTEM.sln in Visual Studio.
+6. Build > Rebuild Solution.
+7. In Solution Explorer, expand view > LoginForm.cs > View Designer.
+
+The forms and images are saved in the project; they do not depend on temporary
+files. Database setup is separate; the ZIP does not modify your database.
+
+If the Designer still reports an error, click Show Call Stack and send a
+screenshot of the full error.
+
+IMPORTANT: Windows Forms Designer was not executable in the creation
+environment; a Visual Studio build and Designer check on Windows is needed.

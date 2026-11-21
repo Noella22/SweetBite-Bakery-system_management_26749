@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:schema id="root">
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="metadata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xs:string" />
+              <xs:attribute name="type" type="xs:string" />
+              <xs:attribute name="mimetype" type="xs:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="assembly">
+            <xs:complexType>
+              <xs:attribute name="alias" type="xs:string" />
+              <xs:attribute name="name" type="xs:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xs:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xs:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xs:string" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xs:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xs:string" ns1:Ordinal="4" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xs:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xs:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+
+  <data name="SweetBiteLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>logo.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryLoginPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>login_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryDashboardPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>dashboard_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryProductPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>product_cake.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakerySalesPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>sales_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryCustomerPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>customers_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryOrdersPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>orders_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryInventoryPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>inventory_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryHistoryPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>history_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryReceiptPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>receipt_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryReportsPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>reports_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryPaymentsPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>payments_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+  <data name="BakeryAccountPhoto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>account_bakery.png;System.Drawing.Bitmap, System.Drawing</value>
+  </data>
+</root>
